@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eTgRmeg0vvoJir3xJwBZUTxukvT9OSq4BGnvY5IWyCQ=",
+  "Source": "WebAppTienda",
+  "BasePath": "_content/WebAppTienda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
